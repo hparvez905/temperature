@@ -1,4 +1,4 @@
-const API_KEY =`46ad7457603b9b0104e633e78cd60e16`;
+const API_KEY =`6ee29c711335f6e50fe92c178a48e983`;
  
 const searchTemperature=()=>{
     const cityName = document.getElementById('city-name').value ;
